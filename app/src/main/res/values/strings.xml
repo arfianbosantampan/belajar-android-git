@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="nput_your_name">Ïnput Your Name</string>
+    <string name="input_your_nim">Input Your NIM</string>
+    <string name="input_your_phone_number">Input Your Phone Number</string>
+    <string name="input_your_email_address">Input Your Email Address</string>
+    <string name="input_your_password">Input Your Password</string>
+
+    <string-array name="array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
